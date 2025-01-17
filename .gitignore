@@ -1,0 +1,51 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/js/
+/assets/css/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Hugo server cache
+hugo_stats.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.~*
+
+# Editor files
+.idea/
+.vscode/
+*.iml
+
+# Node.js (if used for assets)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# GitHub Pages output (if deploying to `gh-pages` branch)
+gh-pages/
+
+# Optional: Ignore the theme if it’s a submodule
+# Uncomment if you added the theme as a submodule and don't want to track its files
+# themes/*
+
+# Optional: Ignore generated files if you're using Hugo Modules
+# Uncomment if using Hugo Modules
+# /go.sum
+# /go.mod
