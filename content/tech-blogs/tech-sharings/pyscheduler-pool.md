@@ -6,6 +6,6 @@ tags:
     - tech sharing
     - python 
 categories: 'Tech blogs'
-featured_image: "/images/2.jpg"
+featured_image: "/images/notebook.jpg"
 ---
 I encountered an issue at work.

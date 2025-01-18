@@ -5,10 +5,9 @@ description: "About my career change."
 tags: 
     - coding
 categories: 'Life Experience'
-draft: true
-featured_image: "/images/1.jpg"
+featured_image: "/images/notebook.jpg"
 
 # images: ["/images/2.jpg", "/images/1.jpg"]
-
+# draft: true
 ---
 My story of why and how I pivot my career.
