@@ -7,7 +7,7 @@ tags:
     - web-dev
     - python
 categories: 'Tech Blogs'
-featured_image: "/images/notebook.jpg"
+# featured_image: "/images/notebook.jpg"
 
 # comment : true
 
