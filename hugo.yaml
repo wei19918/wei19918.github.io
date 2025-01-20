@@ -10,7 +10,7 @@ DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 languages:
     en:
@@ -206,18 +206,24 @@ params:
 menu:
     main: []
 
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
+    # social:
+        # - identifier: github
+        #   name: GitHub
+        #   url: https://github.com/wei19918
+        #   params:
+        #       icon: brand-github
+        
+        # - identifier: threads
+        #   name: Threads
+        #   url: https://www.threads.net/wei19918
+        #   params:
+        #       icon: brand-threads
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+        # - identifier: twitter
+        #   name: Twitter
+        #   url: https://twitter.com
+        #   params:
+        #       icon: brand-twitter
 
 related:
     includeNewer: true
