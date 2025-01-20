@@ -1,13 +1,5 @@
 ---
-title: About
-description: A Software - Hardward Hybrid
-date: '2019-02-28'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2025-01-11'
+title: 關於
 menu:
     main: 
         weight: -90
@@ -15,9 +7,9 @@ menu:
             icon: user
 ---
 
-### Brief
+### 關於我
 
-I have played roles such as Software Engineer, Mechanical Engineer, Project Manager in these industries:
+說說中文吧I have played roles such as Software Engineer, Mechanical Engineer, Project Manager in these industries:
 * Electric Motors, HVAC
 * Touch Panel HMI
 * Automotive
