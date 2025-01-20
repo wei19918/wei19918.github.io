@@ -31,6 +31,7 @@ I write this blog to share the interesting findings I found along the journey.
 * Books I read.
 * Stuff I fixed.
 * Experience I gained.
+* CY's Photography.
 
 ### Meet me at
 

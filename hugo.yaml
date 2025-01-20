@@ -2,7 +2,7 @@ baseurl: https://example.com/
 languageCode: en-us
 theme: hugo-theme-stack
 title: Meswsoul's Site
-copyright: Example Person
+copyright: Meswsoul 
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -19,7 +19,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: Tech, Life
     zh-tw:
         languageName: 中文
         title: Meswsoul's 部落格
@@ -60,7 +60,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 
         avatar:
             enabled: true
             local: true
@@ -206,18 +206,18 @@ params:
 menu:
     main: []
 
-    # social:
+    social:
         # - identifier: github
         #   name: GitHub
         #   url: https://github.com/wei19918
         #   params:
         #       icon: brand-github
         
-        # - identifier: threads
-        #   name: Threads
-        #   url: https://www.threads.net/wei19918
-        #   params:
-        #       icon: brand-threads
+        - identifier: threads
+          name: Threads
+          url: https://www.threads.net/wei19918
+          params:
+              icon: brand-threads
 
         # - identifier: twitter
         #   name: Twitter

@@ -1,8 +1,8 @@
 +++
 author = "CY Chang"
 title = "Xin Du Qiao - Sichuan"
-date = "2022-04-28"
-description = "Rhododendron, Milkyway"
+date = "2021-09-28"
+description = "September, round trip back to Xinduqiao"
 tags = [
 
     "photography",

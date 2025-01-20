@@ -17,12 +17,13 @@ menu:
 
 I write this blog to share the interesting findings I found along the journey. 
 
-### What I Write 
+### 我寫什麼 
 
 * Tech lessons I learned.
 * Books I read.
 * Stuff I fixed.
 * Experience I gained.
+* CY's Photography.
 
 ### Meet me at
 
