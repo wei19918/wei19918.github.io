@@ -19,7 +19,7 @@ image = "default-cover.png"
 
 > AI越來越普及，人手一個Python自動化，
 > 當你需要定期執行任務，例如資料備份、或抓取 API 資料，對於這類需求，
-> 推薦使用Python 強大的排程框架：
+> 安利一下 Python 強大的排程框架：
 > [APScheduler](https://apscheduler.readthedocs.io/en/3.x/)。
 
 ## 實際案例: 客戶端的倒計時程式
@@ -151,6 +151,8 @@ def run(logger):
 1. 使用 Celery 或 Redis Queue (RQ)，讓作業完全脫離主程序的調度。
 APScheduler 僅負責排程，執行交給獨立的作業管理器或worker。
 它額外的好處是支援**持久化**，主程序重啟後，未完成的作業可以繼續執行。
+
+我在後端處理上傳檔案的，就是用RQ，未來再寫。
 
 ## 參考
 

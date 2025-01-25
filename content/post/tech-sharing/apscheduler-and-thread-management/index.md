@@ -1,8 +1,8 @@
 +++
 author = "Meswsoul"
-title = "Share APScheduler's working examples and possible exceptions caused by child processes"
+title = "Share an APScheduler's example and the issue caused by child processes"
 date = "2025-01-25"
-description = "Implementing Apscheduler with 2 sub-thread management ways"
+description = "Implementing Apscheduler with 2 thread management ways"
 tags = [
 
     "Python",
@@ -154,7 +154,7 @@ If you modify to a daemon-process, it means that the current process will automa
 
 ## Conclusion, besides handling errors, what's other remedies?
 
-After I solved a small bug that would cause the main program to crash, the App no ​​longer crashes, problem solved.
+After I solved a small bug that caused the main program to crash, the problem is solved.
 
 But think further, is there any good solution?
 The following are some common ways to better support main program crashes:
@@ -162,6 +162,8 @@ The following are some common ways to better support main program crashes:
 1. Use Celery or Redis Queue (RQ) to completely separate the job from the main program's scheduling.
 APScheduler is only responsible for scheduling, and execution is handed over to independent job managers or workers.
 Its additional benefit is that it supports **persistence**, and unfinished jobs can continue to execute after the main program is restarted.
+
+In fact, our backend which deals the upload file is using RQ. Maybe write about it in the future. 
 
 ## Reference
 

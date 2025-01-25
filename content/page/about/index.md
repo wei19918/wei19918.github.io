@@ -33,6 +33,8 @@ I write this blog to share the interesting findings I found along the journey.
 * Experience I gained.
 * CY's Photography.
 
+(Site supports both English and Manderin)
+
 ### Meet me at
 
 = )

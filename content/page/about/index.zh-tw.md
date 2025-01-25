@@ -9,13 +9,11 @@ menu:
 
 ### 關於我
 
-說說中文吧I have played roles such as Software Engineer, Mechanical Engineer, Project Manager in these industries:
+切換著不同身份努力打工著，做過機構工程師，PM，現職是軟體工程師，經歷包含:
 * Electric Motors, HVAC
 * Touch Panel HMI
 * Automotive
-* IT  `     ---> This where I am now.`
-
-I write this blog to share the interesting findings I found along the journey. 
+* IT  `     ---> 現在`
 
 ### 我寫什麼 
 
@@ -24,6 +22,8 @@ I write this blog to share the interesting findings I found along the journey.
 * Stuff I fixed.
 * Experience I gained.
 * CY's Photography.
+
+(網站支持中英切換)
 
 ### Meet me at
 

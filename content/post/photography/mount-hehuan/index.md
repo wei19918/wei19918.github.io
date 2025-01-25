@@ -6,6 +6,7 @@ description = "Rhododendron, Milkyway"
 tags = [
 
     "photography",
+    "Taiwan",
     "mountain",
     "milky way",
 

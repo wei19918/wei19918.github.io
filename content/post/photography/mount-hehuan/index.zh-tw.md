@@ -6,6 +6,7 @@ description = "合歡山，東峰上的杜鵑花"
 tags = [
 
     "photography",
+    "台灣",
     "群山",
     "夜景",
 

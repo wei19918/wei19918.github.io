@@ -24,34 +24,33 @@ image = "image_1.jpeg"
 
 ## Temple
 
-又回到新都桥， 这次是9月去， 一样的蓝蓝的天， 缺氧的日子， 多了一天空挡， 到几个地方去跑一趟， 蓝天加上鲜红的色彩  
+Back to Xinduqiao again, this time in September, the same blue sky, the days of lack of oxygen, one more day of break, I went to a few places, the blue sky plus the bright red color.
  
 
 ![](image_1.jpeg)  ![](image_3.jpeg)
 
-鲜红的彩绘， 跟高山上， 色彩艳丽的花一样， 幡旗在微风中飘， 跟游客说的很贵的门票， 我想就算了吧， 当香火钱  
+The bright red paintings are like the colorful flowers on the mountains. The flags flutter in the breeze. The tickets are expensive, but I think I'll just forget about it and treat it as incense money.
 
 ![塔公寺](image_3.jpeg)  ![](image_4.jpeg)
 
 ## Partners
 
-快乐的伙伴，在黑土的奇景， 他们中午坐在草地上， 喝着酥油， 看那笑容， 该是喜欢他们的工作吧，
+Happy partners, in the wonder of black soil, they sit on the grass at noon, drinking Butter Tea. Looking at their smiles, they must love their work,
 
 ![](image_7.jpeg)  ![](image_13.jpeg)
 
-看马也很自由， 騎馬的游客不多， 但是也没有给你太多压力， 这就是可爱的地方  
- 
-他们吃饭的家伙， 都很保护著 看他们快乐的走路， 快乐的吃草 
+Horses on the platue. There are not many tourists riding horses, but the saler isn't putting much pressure on tourist. This is the lovely place
+
+They rely on hourse like partners. Watching them walk happily and eat grass happily.
  
 ## Serenity
 
-转过一山又一山．在这个角落去看到漂亮的山谷，停下来多拍了几张，远处的云 蓝天绿地 难得有这么漂亮的地方．宁静安详  
+Meandering over one mountain after another. I saw a beautiful valley in this corner and stopped to take a few more pictures. The clouds, blue sky and green land in the distance. It is rare to have such a beautiful place. Peaceful.
 
 ![](image_18.jpeg)  ![](image_19.jpeg) 
 
-孤寂的石堆，綁著布條，祈福中，千年看到的湖长大了，路也变好了  
+The lonely pile of stones, tied with cloth strips, prayed for blessings. The lake it saw for thousands of years has grown bigger and the road has become better.
  
 ![](image_21.jpeg) 
 
-想到河边拍前面看到的景，却是全挖掉了，剩下一天的石子。拍拍和床旁边的小草 作为一个总结吧  
-
+I wanted to take pictures of the river, but it had all been dug up, leaving only the day's worth of pebbles. Film the grass beside the bend and call it a day.
