@@ -1,6 +1,6 @@
 +++
 author = "CY Chang"
-title = "Laomei Green Reef - Shimen, Taiwan"
+title = "Laomei Green Reef, Shimen, Taiwan"
 date = "2019-05-30"
 description = "Northern Coast's Well Known Beauty"
 tags = [

@@ -1,6 +1,6 @@
 +++
 author = "CY Chang"
-title = "Xin Du Qiao - Sichuan"
+title = "Xin Du Qiao, Sichuan"
 date = "2021-09-28"
 description = "September, round trip back to Xinduqiao"
 tags = [
@@ -17,7 +17,6 @@ categories = [
 ]
 category_group = "photography"
 series = ["Sichuan"]
-aliases = ["migrate-from-jekyl"]
 image = "image_1.jpeg"
 +++
 09-2021 川西 新都橋 CY Chang
@@ -39,9 +38,9 @@ Happy partners, in the wonder of black soil, they sit on the grass at noon, drin
 
 ![](image_7.jpeg)  ![](image_13.jpeg)
 
-Horses on the platue. There are not many tourists riding horses, but the saler isn't putting much pressure on tourist. This is the lovely place
+Horses on the plateau. There are not many tourists riding horses, but the local merchants aren't putting much pressure on tourist. This is the lovely place
 
-They rely on hourse like partners. Watching them walk happily and eat grass happily.
+They rely on horses like partners. Watching them walk happily and eat grass happily.
  
 ## Serenity
 

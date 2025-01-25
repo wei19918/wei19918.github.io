@@ -1,6 +1,6 @@
 +++
 author = "CY Chang"
-title = "新都橋 四川"
+title = "新都橋, 四川"
 date = "2021-09-28"
 description = "九月再訪新都橋"
 tags = [
@@ -18,7 +18,6 @@ categories = [
 ]
 category_group = "photography"
 series = ["四川"]
-aliases = ["migrate-from-jekyl"]
 image = "image_1.jpeg"
 +++
 09-2021 川西 新都橋 CY Chang

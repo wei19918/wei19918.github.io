@@ -1,6 +1,6 @@
 +++
 author = "CY Chang"
-title = "合歡山東峰"
+title = "合歡山東峰, 台灣"
 date = "2022-04-28"
 description = "合歡山，東峰上的杜鵑花"
 tags = [
@@ -18,7 +18,6 @@ categories = [
 ]
 category_group = "photography"
 series = ["Taiwan"]
-aliases = ["migrate-from-jekyl"]
 image = "image_16.jpeg"
 +++
 CY Chang
