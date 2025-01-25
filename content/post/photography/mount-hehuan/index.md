@@ -13,7 +13,6 @@ tags = [
 categories = [
 
     "photography",
-    "mountain"
 
 ]
 category_group = "photography"
