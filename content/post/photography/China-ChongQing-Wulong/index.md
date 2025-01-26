@@ -2,7 +2,7 @@
 author = "CY Chang"
 title = "The Wulong Karst, ChongQing"
 date = "2020-12-30"
-description = "Northern Coast's Well Known Beauty"
+description = ""
 tags = [
 
     "photography",
