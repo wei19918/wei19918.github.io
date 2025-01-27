@@ -19,7 +19,7 @@ categories = [
 ]
 category_group = "photography"
 series = ["ChongQing"]
-image = "image_7.jpeg"
+image = "image_2.jpeg"
 +++
 12-15-2024 Shanwangping, Nanchuan, ChongQing
 
