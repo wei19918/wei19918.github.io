@@ -1,6 +1,6 @@
 +++
 author = "Meswsoul"
-title = "Learning Vim, for normal developers like me"
+title = "Vim Learning Guide, for normal developers like me"
 date = "2025-02-01"
 description = "Vim remap & jump around"
 tags = [
@@ -42,7 +42,7 @@ Change case ——>
 Find `/ty` ——>
 Continuously change the letters `R` name ——>
 Repeat action `n.` ——>
-Copy inside the single quotes `yi' ——>
+Copy inside the single quotes `yi'` ——>
 Find `/re` ——>
 Select the word `viw` and paste `cmd+v` ——>
 Move to bottom line `G` ——>
@@ -63,7 +63,7 @@ I briefly tried neovim and lazyvim, but couldn't stick with them because modern 
 I mainly use Pycharm for work, memorizing the commonly used hot keys was enough.
 Even if sometimes the server side needs working in terminal, it was acceptable by configure nano with the mouse setting(Note 1) so that it can scroll and click. If further use VSCode [ssh remote IDE](https://code.visualstudio.com/docs/remote/ssh), it's sleek.
 
-![](too_good_to_describe.jpeg)
+![Chūka Ichiban, it's super delicious](too_good_to_describe.jpeg)
 
 > Note 1: .nanorc set mouse
 
