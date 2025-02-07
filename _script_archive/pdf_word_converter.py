@@ -100,8 +100,8 @@ def extract_text_and_images():
     with open(text_filename, "w", encoding="utf-8") as text_file:
         text_file.write(all_text)
 
-    print(f"Extraction complete! {image_count} images saved to '{output_folder}', 
-          and text saved to 'extracted_text.txt'.")
+    print(f"Extraction complete! {image_count} images saved to '{output_folder}', "
+          "and text saved to 'extracted_text.txt'.")
 
 
 if __name__ == "__main__":
