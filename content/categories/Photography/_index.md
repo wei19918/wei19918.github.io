@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+title: "CY's Photography World"
 description: "photography category"
 slug: "photography"
 image: "image.png"

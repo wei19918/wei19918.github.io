@@ -1,5 +1,5 @@
 ---
-title: "攝影"
+title: "CY的攝影外傳"
 description: "photography category"
 slug: "photography"
 image: "image.png"
