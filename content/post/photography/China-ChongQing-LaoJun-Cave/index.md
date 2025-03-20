@@ -29,7 +29,8 @@ Photo/Writing CY Chang
 
 The place I often visited in 2003, doesn't feel familiar anymore. The roads had been changed and the side gates are closed. Only the main gate is accessible. The red candles are still lit, and worshippers come and go. It is a good thing that there is quite. I also lit the incense, and I liked the way the smoke floated through the Zeiss lens, savoring the difference.
 
-![](image_1.png) ![](image_3.jpeg)
+![](image_1.png)  
+![](image_3.jpeg)
 
 The temple gate is still there, and the steps paved with old stones always feel good, so just ignore the passengers walking and stopping.
 
@@ -39,7 +40,8 @@ Whether fortune-telling is a consolation or you really believe what others say a
 
 ## German Embassy
 
-![](image_2.jpeg) ![](image_4.jpeg)
+![](image_2.jpeg) 
+![](image_4.jpeg)
 
 The German doctor's house was converted into a consulate during the Anti-Japanese War, and it was not well preserved.
 What's the big deal about it becoming a place to raise chickens? That's a pity for this scene. Still a good spot, has so many stairs to climb that you barely finish walking.

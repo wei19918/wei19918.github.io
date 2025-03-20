@@ -29,11 +29,13 @@ Had been there several times. Re-visit.
 Compare riding my bicycle, driving was a lot easier.
 
 
-![14-22K](image_1.jpeg)  ![Sky](image_3.jpeg)
+![14-22K](image_1.jpeg)  
+![Sky](image_3.jpeg)
 
 Bright blue sky, finding shooting spot.
 
-![](image_7.jpeg)  ![](image_8.jpeg)
+![](image_7.jpeg)  
+![](image_8.jpeg)
  
 ![Milkey Way and Wuling](image_16.jpeg)
 
